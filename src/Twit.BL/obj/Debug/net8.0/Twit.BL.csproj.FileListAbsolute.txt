@@ -1,0 +1,11 @@
+C:\Users\keeper\RiderProjects\Twit\src\Twit.BL\bin\Debug\net8.0\Twit.BL.deps.json
+C:\Users\keeper\RiderProjects\Twit\src\Twit.BL\bin\Debug\net8.0\Twit.BL.dll
+C:\Users\keeper\RiderProjects\Twit\src\Twit.BL\bin\Debug\net8.0\Twit.BL.pdb
+C:\Users\keeper\RiderProjects\Twit\src\Twit.BL\obj\Debug\net8.0\Twit.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\keeper\RiderProjects\Twit\src\Twit.BL\obj\Debug\net8.0\Twit.BL.AssemblyInfoInputs.cache
+C:\Users\keeper\RiderProjects\Twit\src\Twit.BL\obj\Debug\net8.0\Twit.BL.AssemblyInfo.cs
+C:\Users\keeper\RiderProjects\Twit\src\Twit.BL\obj\Debug\net8.0\Twit.BL.csproj.CoreCompileInputs.cache
+C:\Users\keeper\RiderProjects\Twit\src\Twit.BL\obj\Debug\net8.0\Twit.BL.dll
+C:\Users\keeper\RiderProjects\Twit\src\Twit.BL\obj\Debug\net8.0\refint\Twit.BL.dll
+C:\Users\keeper\RiderProjects\Twit\src\Twit.BL\obj\Debug\net8.0\Twit.BL.pdb
+C:\Users\keeper\RiderProjects\Twit\src\Twit.BL\obj\Debug\net8.0\ref\Twit.BL.dll
